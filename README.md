@@ -1,9 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi+👋,+I'm+Sahil+Patil" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=80&lines=Hi+👋,+I'm+Sahil+Patil;Backend+%26+Full+Stack+Developer;AI+%26+GenAI+Explorer" 
+    alt="Typing SVG" 
+  />
 </h1>
 
 <h3 align="center">
-  💻 Backend & Full Stack Developer | 🤖 AI & GenAI Explorer | 🇮🇳 India
+  💻 Backend & Full Stack Developer | 🤖 AI & GenAI
 </h3>
 
 <p align="center">
@@ -144,7 +147,7 @@ console.log(currentFocus);
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
+
 
 # 💡 Dev Quote
 
