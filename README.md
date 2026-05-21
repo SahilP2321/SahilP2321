@@ -1,8 +1,5 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=80&lines=Hi+👋,+I'm+Sahil+Patil;Backend+%26+Full+Stack+Developer;AI+%26+GenAI+Explorer" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sahil+Patil;Backend+%26+Full+Stack+Developer;AI+%26+GenAI+Explorer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
