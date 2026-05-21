@@ -92,28 +92,6 @@ class SahilPatil:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahilP2321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilP2321&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=SahilP2321&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 # ⚡ Contribution Graph
 
 <p align="center">
@@ -154,25 +132,18 @@ console.log(currentFocus);
 # 📫 Connect With Me
 
 <p align="center">
-
   <a href="https://github.com/SahilP2321" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
+  
   <a href="https://www.linkedin.com/in/sahil-patil-15273a289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
 
   <a href="mailto:patilsahil.23p@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </p>
-
 ---
 
 # 💡 Dev Quote
