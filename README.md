@@ -1,86 +1,205 @@
-<h1 align="center">Hi 👋, I'm Sahil Patil</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Patil" />
+</h1>
 
 <h3 align="center">
-💻 Backend & Full Stack Developer | 🤖 AI & GenAI Explorer | 🇮🇳 India
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Backend+%26+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+GenAI+Explorer;%F0%9F%87%AE%F0%9F%87%B3+From+India;%E2%9A%A1+Building+Scalable+Systems;%F0%9F%94%A5+Django+%7C+React+%7C+PostgreSQL+%7C+Redis" />
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=260&section=header&text=Sahil%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Django%20•%20React%20•%20REST%20APIs%20•%20AI%20Workflows&descAlignY=58&descAlign=50"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Developer;Full+Stack+Developer;Building+Scalable+Applications;Exploring+AI+%26+LLMs;Django+%7C+React+%7C+PostgreSQL+%7C+Redis" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=280&section=header&text=Sahil%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI&descAlignY=65&descAlign=50&descSize=22"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 Backend-focused Full Stack Developer
-- ⚡ Skilled in Django, DRF, React.js & PostgreSQL
-- 🔐 Experienced with JWT Authentication & REST APIs
-- 🤖 Exploring AI, GenAI, LLM APIs, Redis & Celery
-- 🏆 Computer Engineering Student with **9.35 CGPA**
-- 🌱 Passionate about building scalable products & automation systems
+```python
+class SahilPatil:
+
+    def __init__(self):
+        self.role = "Backend-focused Full Stack Developer"
+
+        self.skills = {
+            "backend": [
+                "Django",
+                "Django REST Framework",
+                "REST APIs",
+                "JWT Authentication",
+                "Celery",
+                "Redis"
+            ],
+
+            "frontend": [
+                "React.js",
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ],
+
+            "database": [
+                "PostgreSQL",
+                "SQLite",
+                "MongoDB (learning)"
+            ],
+
+            "ai_genai": [
+                "LLM APIs",
+                "Prompt Engineering",
+                "AI Workflows",
+                "GenAI"
+            ],
+
+            "tools": [
+                "Git",
+                "GitHub",
+                "Linux",
+                "Postman",
+                "VS Code"
+            ]
+        }
+
+        self.education = {
+            "degree": "Computer Engineering",
+            "cgpa": 9.35
+        }
+
+        self.goal = "Build scalable products solving real-world problems 🚀"
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,postgres,redis,git,github,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,redis,mongodb,git,github,linux,postman,vscode&perline=7" />
 </p>
 
 <p align="center">
-  
-![Django REST Framework](https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge&logo=django)
-![Celery](https://img.shields.io/badge/Celery-Background%20Tasks-green?style=for-the-badge&logo=celery)
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens)
-![LLMs](https://img.shields.io/badge/LLMs-AI%20Workflows-blue?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-Exploring-purple?style=for-the-badge)
+
+<img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Celery-Background%20Tasks-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-Caching%20%26%20Queues-red?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-AI%20Workflows-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GenAI-Exploring-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahilP2321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilP2321&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=SahilP2321&count_private=true&show_icons=true&theme=github_dark&border_radius=10" />
 
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SahilP2321&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=SahilP2321&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## ⚡ Activity Graph
+# ⚡ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilP2321&theme=github-dark&hide_border=true&area=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilP2321&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Current Focus
+
+```javascript
+const currentFocus = {
+
+  learning: [
+    "Advanced Redis Patterns",
+    "System Design",
+    "AI Workflows"
+  ],
+
+  building: "AI-powered Automation Systems",
+
+  exploring: [
+    "LLMs",
+    "RAG Systems",
+    "Vector Databases"
+  ],
+
+  nextGoal: "Contribute to Open Source 🚀"
+};
+
+console.log(currentFocus);
+```
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/SahilP2321" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/sahil-patil-15273a289" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:patilsahil.23p@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/SahilP2321">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/sahil-patil-15273a289">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 💡 Dev Quote
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0aWV0eGZsZmVwcGQ2cG9ybzM0b2s0ZWQ1eGxvY3NlOHF6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SahilP2321&label=Profile%20Views&color=3b82f6&style=for-the-badge" />
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code • Build • Learn • Repeat 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer"/>
 </p>
